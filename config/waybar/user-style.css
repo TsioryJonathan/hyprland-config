@@ -1,0 +1,25 @@
+/* User custom styles */
+
+* {
+    font-family: "0xProto Nerd Font";
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#waybar {
+    min-height: 28px;
+}
+
+#cpu,
+#memory,
+#custom-cpuinfo,
+#custom-gpuinfo {
+    min-width: 3.2em;
+}
+
+tooltip,
+tooltip * {
+    font-family: "0xProto Nerd Font";
+    font-weight: bold;
+    font-size: 14px;
+}

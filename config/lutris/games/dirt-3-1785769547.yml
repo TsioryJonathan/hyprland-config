@@ -1,0 +1,10 @@
+game:
+  exe: /mnt/NewDisk/DiRT 3 Complete Edition-SteamGG.NET/dirt3_game.exe
+  prefix: /home/jojo/wine-grid-64
+system:
+  gamemode: true
+  mangohud: false
+  single_cpu: false
+wine:
+  dxvk: true
+  version: proton-cachyos-slr

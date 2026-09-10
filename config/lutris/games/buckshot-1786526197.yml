@@ -1,0 +1,9 @@
+game:
+  exe: /mnt/NewDisk/Buckshot-Roulette-AnkerGames/Buckshot Roulette.exe
+  prefix: /home/jojo/wine-buck
+system:
+  env: {}
+wine:
+  dxvk: true
+  overrides: {}
+  version: proton-cachyos-slr

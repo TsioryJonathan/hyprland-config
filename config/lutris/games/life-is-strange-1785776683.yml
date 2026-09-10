@@ -1,0 +1,5 @@
+game:
+  exe: /mnt/NewDisk/Life is Strange/Binaries/Win32/LifeIsStrange.exe
+  prefix: /home/jojo/wine-life
+wine:
+  version: proton-cachyos-slr

@@ -1,0 +1,90 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Nouveau nom
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Basic data partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+Icon=drive-harddisk
+LastNameSeen=536.0 MB Internal Drive (sda4)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda5]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=disk
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda6]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=root
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda7]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=EFI system partition
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda8]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=New Disk
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Réservé au système
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+Icon=drive-removable-media-usb
+LastNameSeen=242.4 GB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb3]
+Icon=drive-removable-media-usb
+LastNameSeen=522.0 MB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb4]
+Icon=drive-removable-media-usb
+LastNameSeen=Disk Local
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+Icon=drive-removable-media-usb
+LastNameSeen=Réservé au système
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+Icon=drive-removable-media-usb
+LastNameSeen=242.4 GB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc3]
+Icon=drive-removable-media-usb
+LastNameSeen=522.0 MB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc4]
+Icon=drive-removable-media-usb
+LastNameSeen=Disk Local
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
+Icon=drive-removable-media-usb
+LastNameSeen=Réservé au système
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd2]
+Icon=drive-removable-media-usb
+LastNameSeen=242.4 GB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd3]
+Icon=drive-removable-media-usb
+LastNameSeen=522.0 MB Removable Media
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd4]
+Icon=drive-removable-media-usb
+LastNameSeen=Disk Local
+
+[General]
+AutomountEnabled=true
+AutomountOnLogin=true

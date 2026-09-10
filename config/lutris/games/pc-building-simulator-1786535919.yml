@@ -1,0 +1,5 @@
+game:
+  exe: /run/media/jojo/disk/Games/PC Building Simulator/PCBS.exe
+  prefix: /home/jojo/wine-pcbs
+wine:
+  version: proton-cachyos-slr

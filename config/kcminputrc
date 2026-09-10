@@ -1,0 +1,8 @@
+[Keyboard]
+NumLock=0
+
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint Stick]
+NaturalScroll=true
+
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint TouchPad]
+NaturalScroll=true

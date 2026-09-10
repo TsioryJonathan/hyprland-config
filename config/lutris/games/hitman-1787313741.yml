@@ -1,0 +1,11 @@
+game:
+  exe: /run/media/jojo/disk/Games/Hitman-Absolution-Steamrip/Hitman Absolution/HMA.exe
+  prefix: /home/jojo/wine-hitman
+system:
+  env:
+    SDL_GAMECONTROLLERCONFIG: 030000000d0f00006b00000011010000,Xbox 360 Controller,a:b0,b:b1,x:b2,y:b3,start:b7,back:b6,leftstick:b8,rightstick:b9,leftshoulder:b4,rightshoulder:b5,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,leftx:a0,lefty:a1,rightx:a3,righty:a4
+    SDL_JOYSTICK_DEVICE: /dev/input/js1
+wine:
+  overrides:
+    xinput1_3: native,builtin
+  version: proton-cachyos-slr

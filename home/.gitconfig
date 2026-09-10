@@ -1,0 +1,15 @@
+[user]
+	name = Tsiory Jonathan
+	email = rakotoarisoajonathan0@gmail.com
+[credential]
+	helper = cache
+[push]
+	autoSetupRemote = true
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[pager]
+	branch = less -F -X
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false

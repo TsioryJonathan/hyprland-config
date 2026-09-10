@@ -1,0 +1,18 @@
+#User Preferences
+#Sat Apr 25 14:28:22 EAT 2026
+G_FILE_CHOOSER.HEIGHT.Open\ a\ Ghidra\ Project=600
+G_FILE_CHOOSER.VIEW_STYLE.Open\ a\ Ghidra\ Project=SimpleView
+G_FILE_CHOOSER.WIDTH.Open\ a\ Ghidra\ Project=800
+GhidraShowWhatsNew=false
+LAST_USED_OPTIONS_CONFIG=Standard Defaults
+LastImportFile=/home/jojo/ctf/perplexed
+LastOpenedProject=/home/jojo/ctf
+LastSelectedProjectDirectory=/home/jojo/Downloads
+ProjectDirectory=/home/jojo/
+RECENT_0=/home/jojo/Downloads
+RecentProjects=/home/jojo/ctf
+SHOW_TIPS=false
+TIP_INDEX=4
+Theme=Class\:generic.theme.builtin.FlatLightTheme
+USER_AGREEMENT=ACCEPT
+ViewedProjects=

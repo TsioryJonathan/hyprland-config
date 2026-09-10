@@ -1,0 +1,12 @@
+game:
+  exe: /run/media/jojo/disk/Games/drive_c/Program Files (x86)/Electronic Arts/SHIFT
+    2 UNLEASHED/shift2u.exe
+  prefix: /home/jojo/wine-shift
+system:
+  gamemode: true
+  mangohud: false
+wine:
+  dxvk: true
+  esync: false
+  fsync: false
+  version: proton-cachyos-slr

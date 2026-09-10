@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/ChatGPT Image Sep 7, 2026, 07_18_28 PM.png
+File10[$e]=$HOME/Downloads/att.gdZ3bMjJzFYRAwQxaa7IQmS-k9nI4-is3k1RlugwqaU.pdf
+File2[$e]=$HOME/Downloads/Gemini_Generated_Image_k8v4oik8v4oik8v4.jpeg
+File3[$e]=$HOME/Downloads/ChatGPT Image Sep 7, 2026, 06_50_40 PM.png
+File4[$e]=$HOME/Downloads/ChatGPT Image Sep 7, 2026, 06_44_20 PM.png
+File5[$e]=$HOME/Downloads/Gemini_Generated_Image_i2n5o2i2n5o2i2n5.jpeg
+File6[$e]=$HOME/Downloads/Gemini_Generated_Image_w9urojw9urojw9ur.jpeg
+File7[$e]=$HOME/Downloads/405c0040-c71e-4b92-8c17-fbae53c00eb8.jpeg
+File8[$e]=$HOME/Downloads/55d19947-7a26-4628-baee-a20f7800b8ae.jpeg
+File9[$e]=$HOME/Downloads/7e37a10b-b769-46e3-9d29-d87bd28a8ee7.jpeg
+Name1[$e]=ChatGPT Image Sep 7, 2026, 07_18_28 PM.png
+Name10[$e]=att.gdZ3bMjJzFYRAwQxaa7IQmS-k9nI4-is3k1RlugwqaU.pdf
+Name2[$e]=Gemini_Generated_Image_k8v4oik8v4oik8v4.jpeg
+Name3[$e]=ChatGPT Image Sep 7, 2026, 06_50_40 PM.png
+Name4[$e]=ChatGPT Image Sep 7, 2026, 06_44_20 PM.png
+Name5[$e]=Gemini_Generated_Image_i2n5o2i2n5o2i2n5.jpeg
+Name6[$e]=Gemini_Generated_Image_w9urojw9urojw9ur.jpeg
+Name7[$e]=405c0040-c71e-4b92-8c17-fbae53c00eb8.jpeg
+Name8[$e]=55d19947-7a26-4628-baee-a20f7800b8ae.jpeg
+Name9[$e]=7e37a10b-b769-46e3-9d29-d87bd28a8ee7.jpeg
+
+[SideBar]
+InformationSplitterSizes=220,255
+IsVisible ViewMode=true
+SideBarSplitterSizes=210,610

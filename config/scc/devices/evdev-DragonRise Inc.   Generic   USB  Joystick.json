@@ -1,0 +1,75 @@
+{
+    "axes": {
+        "0": {
+            "axis": "stick_x",
+            "deadzone": 3.0,
+            "max": 255,
+            "min": 0
+        },
+        "1": {
+            "axis": "stick_y",
+            "deadzone": 3.0,
+            "max": 0,
+            "min": 255
+        },
+        "2": {
+            "axis": "rstick_x",
+            "deadzone": 21.0,
+            "max": 230,
+            "min": 17
+        },
+        "5": {
+            "axis": "rstick_y",
+            "deadzone": 3.0,
+            "max": 0,
+            "min": 255
+        },
+        "16": {
+            "axis": "lpad_y",
+            "deadzone": 3.0,
+            "max": 32767,
+            "min": -32768
+        },
+        "294": {
+            "axis": "ltrig",
+            "max": 32767,
+            "min": -32768
+        },
+        "295": {
+            "axis": "rtrig",
+            "max": 32767,
+            "min": -32768
+        }
+    },
+    "buttons": {
+        "288": "Y",
+        "289": "B",
+        "290": "A",
+        "291": "X",
+        "292": "LB",
+        "293": "RB",
+        "296": "BACK",
+        "297": "START",
+        "298": "STICKPRESS",
+        "299": "STICKPRESS"
+    },
+    "dpads": {},
+    "gui": {
+        "background": "psx",
+        "buttons": [
+            "CROSS",
+            "CIRCLE",
+            "SQUARE",
+            "TRIANGLE",
+            "RECTANGLE",
+            "C",
+            "RTRIANGLE",
+            "LB",
+            "RB",
+            "LT",
+            "RT",
+            "LG",
+            "RG"
+        ]
+    }
+}

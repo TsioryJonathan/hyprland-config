@@ -1,0 +1,25 @@
+game:
+  exe: /run/media/jojo/disk/YosfX Patch - FC 2026 Edition/PES2017.exe
+  prefix: /home/jojo/.wine
+  working_dir: /run/media/jojo/disk/YosfX Patch - FC 2026 Edition
+wine:
+  version: wine-ge-8-26-x86_64
+  dxvk: false
+  vkd3d: false
+  winefsr: false
+  esync: false
+  fsync: false
+  sandbox:
+  - DISPLAY
+  - PULSE_SERVER
+  - WAYLAND_DISPLAY
+system:
+  gamemode: false
+  mangohud: false
+  env:
+    DXVK: "0"
+    WINED3D: "1"
+    __NV_PRIME_RENDER_OFFLOAD: "1"
+    __GLX_VENDOR_LIBRARY_NAME: "nvidia"
+    WAYLAND_DISPLAY: ""
+    DISPLAY: ":0"

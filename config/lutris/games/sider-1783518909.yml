@@ -1,0 +1,15 @@
+game:
+  exe: /run/media/jojo/disk/YosfX Patch - FC 2026 Edition/sider.exe
+system:
+  env:
+    DRI_PRIME: '1'
+    MESA_LOADER_DRIVER_OVERRIDE: nvidia
+    PROTON_HIDE_NVIDIA_GPU: '0'
+    __GLX_VENDOR_LIBRARY_NAME: nvidia
+    __GL_SHADER_DISK_CACHE: '1'
+    __NV_PRIME_RENDER_OFFLOAD: '1'
+wine:
+  dxvk: true
+  overrides:
+    Isteamclient: disabled
+  version: proton-cachyos-slr

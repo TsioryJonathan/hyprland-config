@@ -1,0 +1,12 @@
+system:
+  gamemode: false
+  gpu: card0
+wine:
+  battleye: false
+  dxvk: true
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false
+  version: wine-ge-8-26-x86_64
+  vkd3d: false

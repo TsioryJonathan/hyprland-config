@@ -1,0 +1,22 @@
+{
+  "text_mode": 0,
+  "keyboard_layout": 0,
+  "speed": 1,
+  "custom_speed_percent": 100,
+  "word_height": 0,
+  "word_opacity": 100,
+  "calib_ms": 29,
+  "calib_set": true,
+  "calib_snooze_day": -9223372036854775808,
+  "volume": 1.0,
+  "prac_left": true,
+  "prac_right": true,
+  "prac_top": true,
+  "prac_home": true,
+  "prac_bottom": true,
+  "prac_punct": true,
+  "sp_fx": true,
+  "sort": 0,
+  "tutorial_seen": false,
+  "update_dismissed": ""
+}

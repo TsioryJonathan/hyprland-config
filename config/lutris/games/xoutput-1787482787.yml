@@ -1,0 +1,3 @@
+game:
+  exe: /run/media/jojo/disk/XOutput/XOutput.exe
+  prefix: /home/jojo/wine-xoutput

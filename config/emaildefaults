@@ -1,0 +1,7 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailClient[$e]=brave-browser.desktop
+ServerType=
+TerminalClient=false

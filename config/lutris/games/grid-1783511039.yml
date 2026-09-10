@@ -1,0 +1,27 @@
+game:
+  args: -dx9 -nohmd
+  exe: /run/media/jojo/disk/Games/GRID Autosport - Complete/GRIDAutosport.exe
+  prefix: /home/jojo/wine-grid-64
+system:
+  env:
+    DRI_PRIME: '1'
+    GAMEID: umu-default
+    MESA_LOADER_DRIVER_OVERRIDE: nvidia
+    PROTONPATH: /usr/share/steam/compatibilitytools.d/proton-cachyos-slr
+    PROTON_HIDE_NVIDIA_GPU: '0'
+    PROTON_VERB: run
+    VK_ICD_FILENAMES: /usr/share/vulkan/icd.d/nvidia_icd.json
+    WINEARCH: win64
+    WINEDLLOVERRIDES: winemenubuilder=
+    WINEPREFIX: /home/jojo/wine-grid-64
+    WINE_GECKO_CACHE_DIR: /usr/share/steam/compatibilitytools.d/proton-cachyos-slr/files/gecko
+    WINE_MONO_CACHE_DIR: /usr/share/steam/compatibilitytools.d/proton-cachyos-slr/files/mono
+    __GLX_VENDOR_LIBRARY_NAME: nvidia
+    __GL_SHADER_DISK_CACHE: '1'
+    __NV_PRIME_RENDER_OFFLOAD: '1'
+wine:
+  d3d_extras: false
+  dxvk: true
+  system_winetricks: false
+  version: proton-cachyos-slr
+  vkd3d: false

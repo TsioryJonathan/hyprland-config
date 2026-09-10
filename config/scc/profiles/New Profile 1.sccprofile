@@ -1,0 +1,20 @@
+{
+    "_": "",
+    "buttons": {
+        "C": {
+            "action": "hold(menu('Default.menu'), menu('Default.menu'))"
+        }
+    },
+    "cpad": {},
+    "dpad": {},
+    "gyro": {},
+    "is_template": false,
+    "menus": {},
+    "pad_left": {},
+    "pad_right": {},
+    "rstick": {},
+    "stick": {},
+    "trigger_left": {},
+    "trigger_right": {},
+    "version": 1.5
+}

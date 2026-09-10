@@ -1,0 +1,18 @@
+game:
+  arch: win32
+  args: -dx9
+  exe: /mnt/NewDisk/Car.Mechanic.Simulator.2015.Incl.ALL.DLCs/Car.Mechanic.Simulator.2015/cms2015.exe
+  prefix: /home/jojo/wine-cms2015
+system:
+  env:
+    DRI_PRIME: '1'
+    PROTON_USE_WINED3D: '1'
+    SteamAppId: '320300'
+    VK_ICD_FILENAMES: /usr/share/vulkan/icd.d/nvidia_icd.json
+    __GLX_VENDOR_LIBRARY_NAME: nvidia
+    __NV_PRIME_RENDER_OFFLOAD: '1'
+wine:
+  dxvk: false
+  overrides:
+    steamclient: n,b
+  version: wine-ge-8-26-x86_64

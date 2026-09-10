@@ -1,0 +1,5 @@
+game:
+  exe: /home/jojo/Downloads/SummertimeSaga-0-20-16-pc/SummertimeSaga.exe
+wine:
+  dxvk: true
+  version: proton-cachyos-slr

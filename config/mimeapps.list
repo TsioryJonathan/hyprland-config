@@ -1,0 +1,10 @@
+[Added Associations]
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+
+[Default Applications]
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/jetbrains=jetbrainsd.desktop
+x-scheme-handler/postman=Postman.desktop
+application/x-extension-burp=install4j_p4cto2-BurpSuite.desktop
+x-scheme-handler/burp=install4j_p4cto2-BurpSuite.desktop
+inode/directory=org.kde.dolphin.desktop

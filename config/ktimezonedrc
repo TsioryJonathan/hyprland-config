@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Indian/Antananarivo
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

@@ -1,0 +1,35 @@
+# Secrets et credentials
+*credential*
+*secret*
+*token*
+*.pem
+*.key
+.env
+gh/
+glab/
+firecrawl-cli/
+kdeconnect/
+
+# Caches et etats runtime
+**/Cache/
+**/cache/
+**/CachedData/
+**/GPUCache/
+**/Code Cache/
+**/Service Worker/
+**/Local Storage/
+**/Session Storage/
+**/IndexedDB/
+**/Crashpad/
+**/logs/
+**/*.log
+**/SingletonLock
+**/Singleton*
+
+# Navigateurs / apps lourdes (etat, pas config)
+**/BraveSoftware/
+**/discord/
+**/mozilla/
+
+# Wallpapers (re-telecharges par HyDE)
+**/wallpapers/

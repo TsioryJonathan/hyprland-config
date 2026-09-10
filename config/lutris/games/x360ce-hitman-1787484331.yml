@@ -1,0 +1,4 @@
+game:
+  arch: win32
+  exe: /run/media/jojo/disk/Games/Hitman-Absolution-Steamrip/Hitman Absolution/x360ce.exe
+  prefix: /home/jojo/wine-x360
