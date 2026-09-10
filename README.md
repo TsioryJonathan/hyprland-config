@@ -1,27 +1,36 @@
 # hyprland-config
 
-Backup de mes dotfiles Hyprland / HyDE (Waybar, hypr, etc.).
+Backup of my Hyprland / HyDE dotfiles (Waybar, hypr, etc.).
 
 ## Structure
 
-- `config/` : contenu de `~/.config/` (hors caches, wallpapers et secrets)
-- `home/`  : dotfiles du home (`~/.zshrc`, `~/.bashrc`, `~/.gitconfig`, ...)
+- `config/` : contents of `~/.config/` (excluding caches, wallpapers and secrets)
+- `home/`  : home dotfiles (`~/.zshrc`, `~/.bashrc`, `~/.gitconfig`, ...)
 
-## Restauration
+## Restore
 
 ```sh
 cp -a config/. ~/.config/
 cp -a home/.   ~/
 ```
 
-## Exclusions volontaires
+## Intentional exclusions
 
-Wallpapers HyDE, caches navigateurs/Electron, et fichiers de secrets
+HyDE wallpapers, browser/Electron caches, and secret files
 (`*credential*`, `*.pem`, `firecrawl-cli/`, `kdeconnect/`).
 
-## Mise a jour du backup
+## Updating the backup
+
+The easiest way is to run the sync script:
 
 ```sh
-# depuis ~/.config
+~/hyprland-config/sync.sh
+```
+
+It re-syncs `~/.config`, refreshes home dotfiles, commits and pushes.
+
+Manual equivalent:
+
+```sh
 rsync -a --delete --exclude-from=<(grep -vE '^(#|$)' ~/hyprland-config/.gitignore) ~/.config/ ~/hyprland-config/config/
 ```

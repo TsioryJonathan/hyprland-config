@@ -20,5 +20,5 @@ for f in .zshrc .zshenv .zprofile .bashrc .bash_profile .profile .gitconfig .git
 done
 
 git add -A
-git commit -m "backup: $(date '+%Y-%m-%d %H:%M')" || { echo "rien a committer"; exit 0; }
+git commit -m "backup: $(date '+%Y-%m-%d %H:%M')" || { echo "nothing to commit"; exit 0; }
 git push
